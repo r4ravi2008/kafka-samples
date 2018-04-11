@@ -1,2 +1,34 @@
-*.class
-*.log
+# SBT specific
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+project/project
+project/target
+logs/
+.bin
+.project/
+.cache
+.classpath
+.settings
+*.gclog
+.history
+derby.log
+
+# IDE specific
+.idea
+.idea_module
+.DS_Store
+.ensime
+.ensime_cache/
+*.iml
+.vscode/
+
+# CMake specific
+build/
+
+# Others
+node_modules/
+*.crc
