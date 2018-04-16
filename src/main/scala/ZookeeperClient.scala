@@ -1,10 +1,3 @@
-/*
- * This file is part of the CDAP (R) project.
- * Copyright (C) Cloudwick Technologies, Inc - All Rights Reserved.
- * Unauthorized copying of this file, via any medium is strictly prohibited.
- * Proprietary and confidential.
- */
-
 package com.kafkalivesession
 
 import java.util.Properties
